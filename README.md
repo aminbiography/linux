@@ -33,3 +33,45 @@ ls -l
 ```
 cd ~
 ```
+
+<h2>02: Managing Files and Directories</h2>
+
+<p>mkdir <directory></p>
+<p>Creates a new directory.</p>
+
+```
+mkdir new_folder
+```
+
+<p>touch <file></p>
+<p>Creates a new empty file or updates the timestamp of an existing file.</p>
+
+```
+touch file.txt
+```
+
+<p>cp <source> <destination></p>
+<p>Copies files or directories. Use -r to copy directories recursively.</p>
+
+```
+cp file1.txt file2.txt
+```
+
+<p>mv <source> <destination></p>
+<p>Moves or renames files and directories.</p>
+
+```
+mv file1.txt /home/user/docs/
+```
+
+<p>rm <file></p>
+<p>Removes a file. Use -r for directories and -f to force remove without prompt.</p>
+
+```
+rm file.txt
+rm -r folder
+```
+
+<h2>03: Viewing and Manipulating Files</h2>
+
+
