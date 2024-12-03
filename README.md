@@ -2,7 +2,7 @@
 
 Live URL:   https://aminbiography.github.io/linux/
 
-<h1 style="color: purple">Here are some essential Linux commands that every Linux user should know.</h1>
+<h1 style="color: purple";>Here are some essential Linux commands that every Linux user should know.</h1>
 
 <h2>01: Navigating the File System</h2>
 
