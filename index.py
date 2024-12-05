@@ -1,5 +1,3 @@
-
-
 Live URL:   https://aminbiography.github.io/linux/
 
 <h1>Here are some essential Linux commands that every Linux user should know.</h1>
@@ -371,6 +369,7 @@ journalctl -xe
 
 
 
+
 # # # Linux # # # ############################################
 
 # https://www.kali.org/ 
@@ -384,4 +383,6 @@ journalctl -xe
 # rufus > https://rufus.ie/en/
 
 # https://www.youtube.com/watch?v=ozGmd1Xt_cU
+
+
 
