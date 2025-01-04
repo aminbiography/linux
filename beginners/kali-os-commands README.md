@@ -21,4 +21,32 @@
         <li>Click the <strong>Close</strong> button (X) on the terminal window.</li>
         <li>Or right-click the terminal icon and select <strong>Close</strong>.</li>
     </ul>
+<h1>OS Shutdown Commands in Kali Linux:</h1>
+<h3>Immediate Shutdown (Admin Privileges Required):</h3>
+
+```sudo shutdown now```
+<h3>Scheduled Shutdown:</h3>
+
+```sudo shutdown +<time>```
+<h3>Shutdown with a Custom Message: "System is shutting down for --- maintenance."</h3>
+
+```sudo shutdown +5 "System is shutting down for maintenance."```
+
+<h3>Power Off Directly:</h3>
+
+```sudo poweroff```
+<h3>Reboot Command (Optional for Restart):</h3>
+
+```sudo reboot```
+<h3>Halt the System (Stop All Processes):</h3>
+
+```sudo halt```
+
+<h3>Notes:</h3>
+<li>Always use "sudo" because shutting down typically requires administrator privileges.</li>
+<li>If you're logged in as the root "user", you can skip "sudo".</li>
+<li>For GUI users, you can also shut down using the menu options or power button.</li>
+
+
+
 
