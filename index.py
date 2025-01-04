@@ -388,5 +388,5 @@ journalctl -xe
 
 # https://www.youtube.com/watch?v=ozGmd1Xt_cU
 
-
+# https://www.youtube.com/@mehedishakeel    
 
