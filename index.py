@@ -390,3 +390,16 @@ journalctl -xe
 
 # https://www.youtube.com/@mehedishakeel    
 
+# virtual box + kali Linux 
+
+# https://www.youtube.com/watch?v=gS4zAhmr_dg
+
+# virtualbox download
+
+# https://www.google.com/search?client=firefox-b-d&q=virtualbox+download
+
+# https://www.virtualbox.org/wiki/Downloads?
+
+# kali linux download
+
+# https://www.kali.org/get-kali/#kali-platforms
