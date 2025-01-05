@@ -12,6 +12,74 @@
     <li>Select <strong>Terminal</strong>.</li>
 </ul>
 
+
+===================================================================================================================================================================
+
+<h1>Maximize and Minimize the Kali Linux Terminal</h1>
+
+<p>You can maximize or minimize the Kali Linux terminal using a combination of <strong>keyboard shortcuts</strong>, <strong>mouse actions</strong>, or <strong>terminal commands</strong>, depending on your desktop environment (e.g., GNOME, XFCE).</p>
+
+<h3>Using the Mouse</h3>
+
+<h4>Maximize the Terminal:</h4>
+<ul>
+    <li>Click the <strong>maximize</strong> button (usually located in the top-right or top-left corner of the terminal window).</li>
+    <li>Alternatively, drag the terminal window to the top edge of the screen to maximize it (depending on your desktop environment).</li>
+</ul>
+
+<h4>Minimize the Terminal:</h4>
+<ul>
+    <li>Click the <strong>minimize</strong> button (usually located next to the maximize button).</li>
+    <li>Alternatively, right-click the terminal in the taskbar and select <strong>Minimize</strong>.</li>
+</ul>
+
+<hr>
+
+<h3>Using Keyboard Shortcuts</h3>
+
+<h4>For GNOME (default Kali desktop):</h4>
+<ul>
+    <li><strong>Maximize the Terminal:</strong> Press <code>Super</code> (Windows key) + <code>↑</code> (up arrow).</li>
+    <li><strong>Minimize the Terminal:</strong> Press <code>Super</code> (Windows key) + <code>↓</code> (down arrow).</li>
+</ul>
+
+<h4>For XFCE:</h4>
+<ul>
+    <li><strong>Maximize the Terminal:</strong> Press <code>Alt + F10</code>.</li>
+    <li><strong>Minimize the Terminal:</strong> Press <code>Alt + F9</code>.</li>
+</ul>
+
+<hr>
+
+<h3>Using Terminal Commands</h3>
+<p>You can also control the terminal window from the command line using tools like <code>xdotool</code> (if installed).</p>
+
+<h4>Maximize:</h4>
+<pre><code>xdotool getactivewindow windowsize 100% 100%</code></pre>
+
+<h4>Minimize:</h4>
+<pre><code>xdotool getactivewindow windowminimize</code></pre>
+
+<p><strong>Note:</strong> You may need to install <code>xdotool</code> using the following command if it's not already installed:</p>
+<pre><code>sudo apt install xdotool</code></pre>
+
+<hr>
+
+<h3>Full-Screen Mode</h3>
+
+<h4>Enter Full-Screen Mode:</h4>
+<ul>
+    <li>Press <code>F11</code> (works in most terminal emulators like GNOME Terminal or XFCE Terminal).</li>
+</ul>
+
+<h4>Exit Full-Screen Mode:</h4>
+<ul>
+    <li>Press <code>F11</code> again.</li>
+</ul>
+
+
+===================================================================================================================================================================
+
 <h1>Closing Terminal in Kali Linux</h1>
 <h3>Keyboard Shortcut:</h3>
 <p>Press <strong>"Ctrl + D"</strong> to close the terminal.</p>
@@ -47,6 +115,8 @@
     <li>If you're logged in as the <strong>root user</strong>, you can skip <strong>"sudo"</strong>.</li>
     <li>For GUI users, you can also shut down using the <strong>menu options</strong> or <strong>power button</strong>.</li>
 </ul>
+
+
 
 
 
