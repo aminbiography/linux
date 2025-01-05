@@ -1,6 +1,6 @@
 
 
-<h1>Suricata Installation Guide</h1>
+<h1>Suricata Installation</h1>
 
 <p><strong>Suricata</strong> is a high-performance Network IDS, IPS, and Network Security Monitoring (NSM) engine. It provides robust capabilities for network traffic analysis and intrusion detection.</p>
 
