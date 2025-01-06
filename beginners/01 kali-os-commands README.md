@@ -81,10 +81,8 @@
 <h1>Check System Status in Kali Linux</h1>
 
 <p>To quickly check the system's overall status in Kali Linux, use the following command:</p>
-
-<pre>
-sudo systemctl is-system-running
-</pre>
+    
+```sudo systemctl is-system-running```
 
 <p>The output will be concise and indicate the current system status. Example:</p>
 
