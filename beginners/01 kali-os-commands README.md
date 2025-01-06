@@ -77,7 +77,30 @@
     <li>Press <code>F11</code> again.</li>
 </ul>
 
+===================================================================================================================================================================
+<h1>Check System Status in Kali Linux</h1>
 
+<p>To quickly check the system's overall status in Kali Linux, use the following command:</p>
+
+<pre>
+sudo systemctl is-system-running
+</pre>
+
+<p>The output will be concise and indicate the current system status. Example:</p>
+
+<pre>
+running
+</pre>
+
+<p>This command provides a one-word summary of the system's health:</p>
+<ul>
+    <li><strong>running</strong>: The system is operating normally.</li>
+    <li><strong>degraded</strong>: Some services have failed but the system is functional.</li>
+    <li><strong>maintenance</strong>: The system is in maintenance mode.</li>
+    <li><strong>failed</strong>: A critical issue has occurred.</li>
+</ul>
+
+<p>This is an efficient way to perform a quick health check on your Linux system.</p>
 ===================================================================================================================================================================
 
 <h1>Closing Terminal in Kali Linux</h1>
