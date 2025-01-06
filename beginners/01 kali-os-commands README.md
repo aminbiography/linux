@@ -84,7 +84,7 @@
     
 <pre><code>
 sudo systemctl is-system-running
-</code>code></pre>
+</code></pre>
 
 <p>The output will be concise and indicate the current system status. Example:</p>
 
