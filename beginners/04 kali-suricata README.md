@@ -26,10 +26,10 @@
 <pre><code>sudo systemctl start suricata</code></pre>
 
 <h3>5. Enable Suricata to Start on Boot</h3>
-<p>If you want Suricata to start automatically when the system boots, use the following command:</p>
+<p>To start Suricata automatically when the system boots, use the following command:</p>
 <pre><code>sudo systemctl enable suricata</code></pre>
 
 <h2>Conclusion</h2>
-<p>You have successfully installed Suricata on Kali Linux. Now, you can configure and use it for network security monitoring and intrusion detection.</p>
+<p>Successfully installed Suricata on Kali Linux. Configure and use it for network security monitoring and intrusion detection.</p>
 
-<p>For more information, refer to the official <a href="https://suricata.io/docs/">Suricata Documentation</a>.</p>
+<p>For more information, the official <a href="https://suricata.io/docs/">Suricata Documentation</a>.</p>
