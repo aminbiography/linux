@@ -11,7 +11,7 @@ Live URL:   https://aminbiography.github.io/linux/
 cd, ls, pwd, mkdir, rm, cp, mv, grep, cat, chmod, chown
 ```
 
-<h2>01: Navigating the File System</h2>
+<h2>01: Navigating the File System</h2> 
 
 <p>pwd</p> 
 <p></p>Prints the current working directory.</p>
