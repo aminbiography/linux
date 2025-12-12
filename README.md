@@ -6,7 +6,7 @@ Live URL:   https://aminbiography.github.io/linux/
 <h1>Here are some essential Linux commands that every Linux user should know.</h1>
 
 <p>Linux CLI:</p>
- 
+  
 ```
 cd, ls, pwd, mkdir, rm, cp, mv, grep, cat, chmod, chown
 ```
